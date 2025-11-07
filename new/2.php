@@ -37,3 +37,4 @@ $button = new Button();
 $button->click();
 echo $button->click_count() . "\n";
 ?>
+//
